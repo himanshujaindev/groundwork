@@ -1,0 +1,5 @@
+1. Data = 100 TB; Write to one file within few sec / millisec (Optimize of perf / time to write data)
+2. Two sum -> Generalize to n num that can add to target sum
+3. Nested Dictionary
+
+
